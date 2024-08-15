@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tuğba</h1>
 <h3 align="center">A junior backend developer from Turkey</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugba-buyuk" alt="tugba-buyuk" /></a> </p>
+
 - 🔭 I’m currently working on **WEB API with ASp.NET**
 
 - 🌱 I’m currently learning **to write clean and useful code**
