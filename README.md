@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuğba</h1>
 <h3 align="center">A junior backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **WEB API with ASp.NET**
+- 🔭 I’m currently working on **WEB API with ASP.NET**
 
 - 🌱 I’m currently learning **to write clean and useful code**
 
